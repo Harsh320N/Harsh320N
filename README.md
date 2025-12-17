@@ -5,7 +5,6 @@ I’m a **Flutter developer with 4+ years of hands-on experience** building **hi
 
 I focus on **clean architecture, reusable components, and maintainable code**, ensuring long-term scalability and smooth feature expansion.
 
----
 
 ## 🚀 What I Do Best
 - Cross-platform app development using **Flutter**
@@ -15,7 +14,6 @@ I focus on **clean architecture, reusable components, and maintainable code**, e
 - API & third-party service integration
 - App Store & Play Store deployment with post-launch support
 
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -48,7 +46,6 @@ I focus on **clean architecture, reusable components, and maintainable code**, e
 - Custom UI Components  
 - Animations
 
----
 
 ## 📱 What I Can Help You With
 - Flutter app development (**Android • iOS • Web • Desktop**)  
@@ -59,7 +56,6 @@ I focus on **clean architecture, reusable components, and maintainable code**, e
 - Play Store & App Store deployment  
 - Long-term app maintenance & scaling  
 
----
 
 ## 🔗 Connect With Me
 
@@ -70,13 +66,11 @@ I focus on **clean architecture, reusable components, and maintainable code**, e
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshnavapara320@email.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/916355916315)
 
----
 
 ## 💡 Work Philosophy
 I believe in **clear communication, clean code, and reliable delivery**.  
 My goal is not just to complete tasks, but to help products **scale smoothly and succeed long-term**. I enjoy collaborating with teams and clients who value quality and thoughtful engineering.
 
----
 
 ## 🤝 Open To
 - Remote Flutter Developer roles  

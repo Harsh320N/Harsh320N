@@ -76,7 +76,7 @@ My goal is not just to complete tasks, but to help products **scale smoothly and
 
 ## 🔗 Let’s Connect
 - **LinkedIn:** www.linkedin.com/in/harsh-navapara-37b1a7211
-- **Portfolio (Flutter Web – Responsive):** harsh-portfolio-32568.web.app/
+- **Portfolio (Flutter Web – Responsive):** https://harsh-portfolio-32568.web.app/
 - **Upwork:** https://freelancerprofilenuxt.mesh.prod.platform.usw2.upwork/freelancers/~016f6ed9ef02f520bd?mp_source=share
 
 ---

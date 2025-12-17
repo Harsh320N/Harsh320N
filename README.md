@@ -61,13 +61,6 @@ I focus on **clean architecture, reusable components, and maintainable code**, e
 
 ---
 
-## 📊 GitHub Stats
-
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshnavapara&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshnavapara&layout=compact&theme=dark)
-
----
-
 ## 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://harsh-portfolio-32568.web.app/)

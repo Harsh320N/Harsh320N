@@ -59,12 +59,12 @@ I focus on **clean architecture, reusable components, and maintainable code**, e
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://harsh-portfolio-32568.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-navapara-37b1a7211)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016f6ed9ef02f520bd?mp_source=share)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://harsh-portfolio-32568.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-navapara-37b1a7211)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~016f6ed9ef02f520bd?mp_source=share)
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshnavapara320@email.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/916355916315)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshnavapara320@email.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/916355916315)
 
 
 ## 💡 Work Philosophy

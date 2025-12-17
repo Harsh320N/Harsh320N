@@ -5,6 +5,7 @@ I’m a **Flutter developer with 4+ years of hands-on experience** building **hi
 
 I focus on **clean architecture, reusable components, and maintainable code**, ensuring long-term scalability and smooth feature expansion.
 
+---
 
 ## 🚀 What I Do Best
 - Cross-platform app development using **Flutter**
@@ -14,6 +15,7 @@ I focus on **clean architecture, reusable components, and maintainable code**, e
 - API & third-party service integration
 - App Store & Play Store deployment with post-launch support
 
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -46,6 +48,7 @@ I focus on **clean architecture, reusable components, and maintainable code**, e
 - Custom UI Components  
 - Animations
 
+---
 
 ## 📱 What I Can Help You With
 - Flutter app development (**Android • iOS • Web • Desktop**)  
@@ -56,22 +59,36 @@ I focus on **clean architecture, reusable components, and maintainable code**, e
 - Play Store & App Store deployment  
 - Long-term app maintenance & scaling  
 
+---
+
+## 📊 GitHub Stats
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshnavapara&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshnavapara&layout=compact&theme=dark)
+
+---
+
+## 🔗 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://harsh-portfolio-32568.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-navapara-37b1a7211)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork)](https://freelancerprofilenuxt.mesh.prod.platform.usw2.upwork/freelancers/~016f6ed9ef02f520bd?mp_source=share)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshnavapara320@email.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/916355916315)
+
+---
 
 ## 💡 Work Philosophy
 I believe in **clear communication, clean code, and reliable delivery**.  
 My goal is not just to complete tasks, but to help products **scale smoothly and succeed long-term**. I enjoy collaborating with teams and clients who value quality and thoughtful engineering.
 
+---
 
 ## 🤝 Open To
 - Remote Flutter Developer roles  
 - Freelance & contract projects  
 - Long-term collaborations  
-
-
-## 🔗 Let’s Connect
-- **LinkedIn:** www.linkedin.com/in/harsh-navapara-37b1a7211
-- **Portfolio (Flutter Web – Responsive):** https://harsh-portfolio-32568.web.app/
-- **Upwork:** https://freelancerprofilenuxt.mesh.prod.platform.usw2.upwork/freelancers/~016f6ed9ef02f520bd?mp_source=share
 
 ---
 

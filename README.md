@@ -77,6 +77,5 @@ My goal is not just to complete tasks, but to help products **scale smoothly and
 - Freelance & contract projects  
 - Long-term collaborations  
 
----
 
 ⭐ *If you find my work useful, feel free to explore my repositories or connect with me.*

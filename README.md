@@ -5,7 +5,6 @@ I’m a **Flutter developer with 4+ years of hands-on experience** building **hi
 
 I focus on **clean architecture, reusable components, and maintainable code**, ensuring long-term scalability and smooth feature expansion.
 
----
 
 ## 🚀 What I Do Best
 - Cross-platform app development using **Flutter**

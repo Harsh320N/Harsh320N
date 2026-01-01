@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Harsh Navapara  
-**Flutter Software Engineer | Cross-Platform Mobile Developer | 4+ Years Experience**
+**Senior Flutter Developer | Cross-Platform Mobile Developer | 4+ Years Experience**
 
-I’m a **Flutter developer with 5 years of hands-on experience** building **high-performance, scalable, and user-centric applications**. I specialize in transforming complex ideas into **clean, intuitive, and production-ready mobile solutions** for **Android and iOS**, with experience across **web and desktop** platforms as well.
+I’m a **Senior Flutter app developer with 5 years of hands-on experience** building **high-performance, scalable, and user-centric applications**. I specialize in transforming complex ideas into **clean, intuitive, and production-ready mobile solutions** for **Android and iOS**, with experience across **web and desktop** platforms as well.
 
 I focus on **clean architecture, reusable components, and maintainable code**, ensuring long-term scalability and smooth feature expansion.
 

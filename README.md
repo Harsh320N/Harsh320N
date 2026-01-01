@@ -64,11 +64,10 @@ I focus on **clean architecture, reusable components, and maintainable code**, e
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~016f6ed9ef02f520bd?mp_source=share)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/916355916315)
-<!-- [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshnavapara320@email.com) -->
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshnavapara320@email.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
 </a>
-
+<!-- [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshnavapara320@email.com) -->
 
 
 ## 💡 Work Philosophy

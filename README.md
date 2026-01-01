@@ -62,6 +62,7 @@ I focus on **clean architecture, reusable components, and maintainable code**, e
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://harsh-portfolio-32568.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-navapara-37b1a7211)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~016f6ed9ef02f520bd?mp_source=share)
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/916355916315)
 <!-- [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshnavapara320@email.com) -->
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshnavapara320@email.com">

@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Harsh Navapara  
-**Senior Flutter Developer | Cross-Platform Mobile Developer | 4+ Years Experience**
+**Senior Flutter Developer | Cross-Platform Mobile Developer | 5+ Years Experience**
 
 I’m a **Senior Flutter app developer with 5+ years of hands-on experience** building **high-performance, scalable, and user-centric applications**. I specialize in transforming complex ideas into **clean, intuitive, and production-ready mobile solutions** for **Android and iOS**, with experience across **web and desktop** platforms as well.
 
